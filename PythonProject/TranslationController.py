@@ -15,7 +15,7 @@ PC_DEMO_MODE = False  # False = Robot Speaks. True = Laptop Speaks.
 
 HOST = '127.0.0.1'
 PORT = 8888
-API_KEY = "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"
+API_KEY = ""
 
 # LIST OF LANGUAGES NAO ACTUALLY HAS INSTALLED
 SUPPORTED_NAO_LANGUAGES = ["English", "Spanish", "French", "German", "Japanese", "Italian"]
@@ -335,3 +335,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
